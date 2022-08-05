@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Eduardo 👋
 
-- 🔭 Estou estudando progremação full stack
+- 🔭 Estou estudando desenvolvimento full stack
 
 
 <div align="center">
